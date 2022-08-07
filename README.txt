@@ -2,8 +2,4 @@ Explorando Padrões de Projetos na Prática com Java Agora é a sua hora de bril
 
 Dica: Além dos projetos/repositórios que criamos para este desafio, caso queira explorar novos padrões de projeto digite no Google: “java design patterns github” ou “java design patterns examples”. Com isso, você conhecerá novos padrões e implementações de referência que podem ajudá-lo a dominar esse tema!
 
-Links Úteis Slides
 
-[GitHub com Padrões de Projeto usando Java Puro (implementação de referência)](https://github.com/digitalinnovationone/lab-padroes-projeto-java )
-
-[GitHub com Padrões de Projeto usando Spring (implementação de referência)](https://github.com/digitalinnovationone/lab-padroes-projeto-spring )
