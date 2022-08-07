@@ -4,6 +4,6 @@ Dica: Além dos projetos/repositórios que criamos para este desafio, caso queir
 
 Links Úteis Slides
 
-GitHub com Padrões de Projeto usando Java Puro (implementação de referência)
+[GitHub com Padrões de Projeto usando Java Puro (implementação de referência)](https://github.com/digitalinnovationone/lab-padroes-projeto-java )
 
-GitHub com Padrões de Projeto usando Spring (implementação de referência)
+[GitHub com Padrões de Projeto usando Spring (implementação de referência)](https://github.com/digitalinnovationone/lab-padroes-projeto-spring )
